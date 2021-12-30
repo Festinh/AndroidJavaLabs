@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 1 Android</string>
+    <string-array name="tableware">
+        <item>Тарілки</item>
+        <item>Чашки</item>
+        <item>Миски</item>
+    </string-array>
+</resources>
